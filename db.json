@@ -1,0 +1,153 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "plix Collagen Powder",
+      "price": "1199",
+      "proddesc": "Best powder for skin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Hdx4Pwnh5XCbTxBEa5-sHAHaHa?pid=Api&P=0&h=180",
+      "category": "powder"
+    },
+    {
+      "id": "2",
+      "name": "plix serum pineapple",
+      "price": "1299",
+      "proddesc": "Hair Growth Formula",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.p4TMQeLulMhVSOMjG0BZ4gHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "3",
+      "name": "plix Hair Shampoo",
+      "price": "1249",
+      "proddesc": "AntiDandruff shampoo for hairfall",
+      "image": "https://sp.yimg.com/ib/th?id=OPAC.8ChaHoVwAWkX5g474C474&o=5&pid=21.1&w=160&h=105",
+      "category": "shampoos"
+    },
+    {
+      "id": "4",
+      "name": " plix Hair Serum",
+      "price": "1249",
+      "proddesc": "Rosemary hair growth serum",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.OnDcJoXdFpugtmmhSKYyjwHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "5",
+      "name": "plix Hair Shampoo",
+      "price": "1249",
+      "proddesc": "AntiDandruff shampoo for hairfall",
+      "image": "https://sp.yimg.com/ib/th?id=OPAC.8ChaHoVwAWkX5g474C474&o=5&pid=21.1&w=160&h=105",
+      "category": "shampoos"
+    },
+    {
+      "id": "6",
+      "name": " plix Hair Serum",
+      "price": "1249",
+      "proddesc": "Rosemary hair growth serum",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.OnDcJoXdFpugtmmhSKYyjwHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "7",
+      "name": "plix Hair Shampoo",
+      "price": "1249",
+      "proddesc": "AntiDandruff shampoo for hairfall",
+      "image": "https://sp.yimg.com/ib/th?id=OPAC.8ChaHoVwAWkX5g474C474&o=5&pid=21.1&w=160&h=105",
+      "category": "shampoos"
+    },
+    {
+      "id": "8",
+      "name": " plix Hair Serum",
+      "price": "1249",
+      "proddesc": "Rosemary hair growth serum",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.OnDcJoXdFpugtmmhSKYyjwHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "47a7",
+      "name": "Jamun Facewash and serum",
+      "price": 699,
+      "proddesc": "Jamun Facewash and serum for Acne & Pigmentation",
+      "category": "facewash",
+      "image": "https://images.plixlife.com/hosted/Jamun_FW__Serum-3bc11b898694.jpg?aio=w-768"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "plix Collagen Powder",
+      "price": "1199",
+      "proddesc": "Best powder for skin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Hdx4Pwnh5XCbTxBEa5-sHAHaHa?pid=Api&P=0&h=180",
+      "category": "powder"
+    },
+    {
+      "id": "5",
+      "name": "plix Hair Shampoo",
+      "price": "1249",
+      "proddesc": "AntiDandruff shampoo for hairfall",
+      "image": "https://sp.yimg.com/ib/th?id=OPAC.8ChaHoVwAWkX5g474C474&o=5&pid=21.1&w=160&h=105",
+      "category": "shampoos"
+    },
+    {
+      "id": "1",
+      "name": "plix Collagen Powder",
+      "price": "1199",
+      "proddesc": "Best powder for skin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Hdx4Pwnh5XCbTxBEa5-sHAHaHa?pid=Api&P=0&h=180",
+      "category": "lotion"
+    },
+    {
+      "id": "1",
+      "name": "plix Collagen Powder",
+      "price": "1199",
+      "proddesc": "Best powder for skin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Hdx4Pwnh5XCbTxBEa5-sHAHaHa?pid=Api&P=0&h=180",
+      "category": "lotion"
+    },
+    {
+      "id": "1",
+      "name": "plix Collagen Powder",
+      "price": "1199",
+      "proddesc": "Best powder for skin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Hdx4Pwnh5XCbTxBEa5-sHAHaHa?pid=Api&P=0&h=180",
+      "category": "lotion"
+    },
+    {
+      "id": "2",
+      "name": "plix serum pineapple",
+      "price": "1299",
+      "proddesc": "Hair Growth Formula",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.p4TMQeLulMhVSOMjG0BZ4gHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "8",
+      "name": " plix Hair Serum",
+      "price": "1249",
+      "proddesc": "Rosemary hair growth serum",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.OnDcJoXdFpugtmmhSKYyjwHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "2",
+      "name": "plix serum pineapple",
+      "price": "1299",
+      "proddesc": "Hair Growth Formula",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.p4TMQeLulMhVSOMjG0BZ4gHaHa?pid=Api&P=0&h=180",
+      "category": "serums"
+    },
+    {
+      "id": "1",
+      "name": "plix Collagen Powder",
+      "price": "1199",
+      "proddesc": "Best powder for skin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Hdx4Pwnh5XCbTxBEa5-sHAHaHa?pid=Api&P=0&h=180",
+      "category": "lotion"
+    }
+  ],
+  "user": []
+ 
+  
+}

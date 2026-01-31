@@ -1,0 +1,159 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Plix Shampoo",
+      "price": 199,
+      "proddesc": "Natural hair shampoo with aloe",
+      "category": "shampoos",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.HQPu0dNDxD0b27UYwKc3ewHaHa?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "2",
+      "name": "Face Wash",
+      "price": 149,
+      "proddesc": "Gentle foaming face wash",
+      "category": "facewash",
+      "image": "https://sp.yimg.com/ib/th?id=OPAC.0h7ulG7fJvflhQ474C474&o=5&pid=21.1&w=160&h=105"
+    },
+    {
+      "id": "3",
+      "name": "Body Lotion",
+      "price": 299,
+      "proddesc": "Hydrating body lotion",
+      "category": "lotions",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.BQQjp2UKnLtAlzmvF4abvgHaHa?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "d6ca",
+      "name": "Rosemary hair serum (100ml)",
+      "price": 349,
+      "proddesc": "Rosemary hair serum (100ml)",
+      "category": "serums",
+      "image": "https://images.plixlife.com/hosted/Aqualogica_Image-229a4c3897e9.jpg?aio=w-768"
+    },
+    {
+      "id": "5",
+      "name": "Aloe Facewash",
+      "price": 150,
+      "proddesc": "Gentle cleanser",
+      "category": "facewash",
+      "image": "https://via.placeholder.com/200x150?text=Facewash+1"
+    },
+    {
+      "id": "6",
+      "name": "Herbal Shampoo",
+      "price": 200,
+      "proddesc": "Natural shampoo",
+      "category": "shampoos",
+      "image": "https://via.placeholder.com/200x150?text=Shampoo+1"
+    },
+    {
+      "id": "7",
+      "name": "Serum 4",
+      "price": 350,
+      "proddesc": "Vitamin C serum",
+      "category": "serums",
+      "image": "https://via.placeholder.com/200x150?text=Serum+4"
+    },
+    {
+      "id": "8",
+      "name": "Plix Shampoo",
+      "price": 199,
+      "proddesc": "Natural hair shampoo with aloe",
+      "category": "shampoos",
+      "image": "https://via.placeholder.com/200x150?text=Plix+Shampoo"
+    },
+    {
+      "id": "9",
+      "name": "Face Wash",
+      "price": 149,
+      "proddesc": "Gentle foaming face wash",
+      "category": "facewash",
+      "image": "https://via.placeholder.com/200x150?text=Face+Wash"
+    },
+    {
+      "id": "10",
+      "name": "Body Lotion",
+      "price": 299,
+      "proddesc": "Hydrating body lotion",
+      "category": "lotions",
+      "image": "https://via.placeholder.com/200x150?text=Body+Lotion"
+    },
+    {
+      "id": "11",
+      "name": "Vitamin C Serum",
+      "price": 349,
+      "proddesc": "Brightening facial serum",
+      "category": "serums",
+      "image": "https://via.placeholder.com/200x150?text=Serum"
+    },
+    {
+      "id": "12",
+      "name": "Herbal Shampoo",
+      "price": 189,
+      "proddesc": "Strengthening herbal shampoo",
+      "category": "shampoos",
+      "image": "https://via.placeholder.com/200x150?text=Herbal+Shampoo"
+    },
+    {
+      "id": "13",
+      "name": "Charcoal Face Wash",
+      "price": 159,
+      "proddesc": "Deep cleansing face wash",
+      "category": "facewash",
+      "image": "https://via.placeholder.com/200x150?text=Charcoal+Face+Wash"
+    },
+    {
+      "id": "14",
+      "name": "Cocoa Body Lotion",
+      "price": 279,
+      "proddesc": "Nourishing cocoa lotion",
+      "category": "lotions",
+      "image": "https://via.placeholder.com/200x150?text=Cocoa+Lotion"
+    },
+    {
+      "id": "15",
+      "name": "Retinol Serum",
+      "price": 399,
+      "proddesc": "Anti-aging serum",
+      "category": "serums",
+      "image": "https://via.placeholder.com/200x150?text=Retinol+Serum"
+    },
+    {
+      "id": "16",
+      "name": "Neem Shampoo",
+      "price": 179,
+      "proddesc": "Anti-dandruff neem shampoo",
+      "category": "shampoos",
+      "image": "https://via.placeholder.com/200x150?text=Neem+Shampoo"
+    }
+  ],
+ "cart": [
+  {
+    "id": "1",
+    "name": "Plix Shampoo",
+    "price": 199,
+    "proddesc": "Natural hair shampoo with aloe",
+    "category": "shampoos",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.HQPu0dNDxD0b27UYwKc3ewHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": "3",
+    "name": "Body Lotion",
+    "price": 299,
+    "proddesc": "Hydrating body lotion",
+    "category": "lotions",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.BQQjp2UKnLtAlzmvF4abvgHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": "2",
+    "name": "Face Wash",
+    "price": 149,
+    "proddesc": "Gentle foaming face wash",
+    "category": "facewash",
+    "image": "https://sp.yimg.com/ib/th?id=OPAC.0h7ulG7fJvflhQ474C474&o=5&pid=21.1&w=160&h=105"
+  }
+]
+
+}
